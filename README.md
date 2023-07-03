@@ -1,4 +1,4 @@
-*Simplified version of neural network brain in english:
+*Simplified version of neural network brain in English:
 
 ![bb](https://github.com/faamii/Priscila/assets/68048874/78733a62-b101-4985-ac67-7482990b9bb9)
 
