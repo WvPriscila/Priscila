@@ -5,3 +5,6 @@
 *Simplified version of the neural network brain in Portuguese
 
 ![b](https://github.com/faamii/Priscila/assets/68048874/196931a4-b9e6-4070-ac38-2873902939ed)
+
+
+# The final version of the code will allow the brain to self-modify its own code in search of self-improvement.
