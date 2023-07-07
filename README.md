@@ -13,6 +13,6 @@
 
 
 
-# example of how a program can modify its own code:
+# Example of how a program can modify its own code:
 
 
