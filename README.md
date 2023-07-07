@@ -1,4 +1,4 @@
-# * The purpose of this repository is to create a general application neural network, called Priscila.
+# The purpose of this repository is to create a general application neural network, called Priscila.
 # The final version of the code will allow the brain to self-modify its own code in search of self-improvement.
 
 
