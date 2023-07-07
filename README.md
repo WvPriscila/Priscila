@@ -12,3 +12,7 @@
 ![b](https://github.com/faamii/Priscila/assets/68048874/196931a4-b9e6-4070-ac38-2873902939ed)
 
 
+
+# example of how a program can modify its own code:
+
+
